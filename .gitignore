@@ -1,0 +1,13 @@
+#######
+# Web #
+#######
+
+# Node
+node_modules
+
+#########
+# Tests #
+#########
+
+test/*.json
+coverage/
