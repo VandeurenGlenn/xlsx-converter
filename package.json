@@ -1,6 +1,6 @@
 {
   "name": "xlsx-converter",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert xlsx to json, csv, etc (more will follow)",
   "main": "index.js",
   "scripts": {
